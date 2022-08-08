@@ -17,7 +17,7 @@
     - ```chmod +x install.sh```
     - ```./install.sh```
 
-#### Or, directly run
+#### Or, directly run "Root Users 'sudo su'"
 ```
 git clone https://github.com/AbdulazizDXT/SuperASS ;cd SuperASS ;chmod +x install.sh ;./install.sh
 
