@@ -14,8 +14,8 @@
  - For KALI Linux :
     - ```git clone https://github.com/AbdulazizDXT/SuperASS```
     - ```cd SuperASS```
-    - ```chmod +x install.sh
-    - ```./install.sh
+    - ```chmod +x install.sh```
+    - ```./install.sh```
 
 
 
