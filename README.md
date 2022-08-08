@@ -17,6 +17,12 @@
     - ```chmod +x install.sh```
     - ```./install.sh```
 
+#### Or, directly run
+```
+git clone https://github.com/AbdulazizDXT/SuperASS ;cd SuperASS ;chmod +x install.sh ;./install.sh
+
+```
+
 
 
 
