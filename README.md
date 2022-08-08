@@ -1,5 +1,5 @@
 
-<h1 align="center">SuperASS</h1>
+<h1 align="center">SuperASS V1.0</h1>
 
 ### [√] Description :
 
