@@ -9,6 +9,5 @@ wget https://download2269.mediafire.com/mta4wwcno9rg/0i498rc3hxj9aft/SuperASS.zi
 sudo apt install unzip -y
 unzip SuperASS.zip
 rm -rf SuperASS.zip
-wget https://download1586.mediafire.com/aef4ycn6xrkg/rixpx3l914utu49/README.md
 nautilus /home/$USERNAME/Desktop/SuperASS/SuperASS
 
