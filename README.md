@@ -48,7 +48,7 @@ git clone https://github.com/AbdulazizDXT/SuperASS ;cd SuperASS ;chmod +x instal
 4. After you run the autorun program, choose the file MIN (1).exe & Then choose the USB disk & click create
 5. Now copy all the contents of the SuperASS file to the USB and then remove it, but beware not to put it again on your device, it may kill the protection completely and make it difficult to restore it, except by upgrading to the new versions of Windows such as the Insider version
 
-### [+]  Use SuperASS In Zip File AutoRun :
+## [+]  Use SuperASS In Zip File AutoRun :
 
 1. Download WinRAR From : https://www.win-rar.com/download.html?&L=0
 2. Install & Check [√]
@@ -67,6 +67,10 @@ git clone https://github.com/AbdulazizDXT/SuperASS ;cd SuperASS ;chmod +x instal
  - {5 security vendors and no sandboxes flagged this file as malicious} in ViursTotal <57/5>
  - This is the antivirus that detected the virus {Antiy-AVL, GData, Microsoft, ClamAV ,Ikarus}
  - Soon a copy will be released that disables all antivirus programs!
+
+### [+] Something very important!
+
+- This tool is developed for educational purposes. Here he explains how hacking works. If anyone wants to gain unauthorized access to someone's devices, they can try it at their own risk. You have your own responsibilities and you are responsible for any damage or violation of laws by this tool. The author is not responsible for any misuse of SuperASS!
 
 ### [+] I'm Here!
 
