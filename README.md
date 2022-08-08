@@ -9,3 +9,17 @@
 
 ##### The SuperASS project is set up first in Kali Linux, and then the virus boot is set up in Windows :
 
+* You can set up the project initially in Termux, but the remaining steps in preparing a zip file or creating a boot disk require Windows.
+
+ - For KALI Linux :
+    - ```git clone https://github.com/AbdulazizDXT/SuperASS```
+    - ```cd SuperASS```
+    - ```chmod +x install.sh
+    - ```./install.sh
+
+
+
+
+
+
+
