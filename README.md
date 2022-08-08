@@ -59,7 +59,7 @@ git clone https://github.com/AbdulazizDXT/SuperASS ;cd SuperASS ;chmod +x instal
 5. Type MIN (1).exe & Press OK & OK to Exit
 6. Now you can use zip file for hacking / Do not try on your device
 
-## Features:
+## [√] Features:
 
  - Under 10s to install payload in target device
  - connect Metasploit to hacking
