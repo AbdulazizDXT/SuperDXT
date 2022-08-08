@@ -67,3 +67,11 @@ git clone https://github.com/AbdulazizDXT/SuperASS ;cd SuperASS ;chmod +x instal
  - {5 security vendors and no sandboxes flagged this file as malicious} in ViursTotal <57/5>
  - This is the antivirus that detected the virus {Antiy-AVL, GData, Microsoft, ClamAV ,Ikarus}
  - Soon a copy will be released that disables all antivirus programs!
+
+### [+] I'm Here!
+
+
+- [![Github](https://img.shields.io/badge/Github-KasRoudra-green?style=for-the-badge&logo=github)](https://github.com/AbdulazizDXT)
+
+- [![Gmail](https://img.shields.io/badge/Gmail-KasRoudra-green?style=for-the-badge&logo=gmail)](mailto:Abdulazizalhasaniwin@gmail.com)
+
