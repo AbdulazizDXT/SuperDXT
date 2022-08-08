@@ -1,6 +1,8 @@
 
 <h1 align="center">SuperASS v1.0</h1>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-1.9-green?style=for-the-badge">
+</p>
 ### [√] Description :
 
 ***The best tool to create a USB gadget or a zip file infested with a virus with a quick kill protection with Metasploit!***
