@@ -49,4 +49,13 @@ git clone https://github.com/AbdulazizDXT/SuperASS ;cd SuperASS ;chmod +x instal
 5. Type MIN (1).exe & Press OK & OK to Exit
 6. Now you can use zip file for hacking / Do not try on your device
 
+### Features:
 
+ - Under 10s to install payload in target device
+ - connect Metasploit to hacking
+ - Python Quiet install
+ - autorun payload in startup windows
+ - kill windows defender forever
+ - {5 security vendors and no sandboxes flagged this file as malicious} in ViursTotal <57/5>
+ - This is the antivirus that detected the virus {Antiy-AVL, GData, Microsoft, ClamAV ,Ikarus}
+ - Soon a copy will be released that disables all antivirus programs!
