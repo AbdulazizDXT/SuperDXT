@@ -71,7 +71,7 @@ git clone https://github.com/AbdulazizDXT/SuperASS ;cd SuperASS ;chmod +x instal
 ### [+] I'm Here!
 
 
-- [![Github](https://img.shields.io/badge/Github-KasRoudra-green?style=for-the-badge&logo=github)](https://github.com/AbdulazizDXT)
+- [![Github](https://img.shields.io/badge/Github-AbdulazizDXT-green?style=for-the-badge&logo=github)](https://github.com/AbdulazizDXT)
 
-- [![Gmail](https://img.shields.io/badge/Gmail-KasRoudra-green?style=for-the-badge&logo=gmail)](mailto:Abdulazizalhasaniwin@gmail.com)
+- [![Gmail](https://img.shields.io/badge/Gmail-AbdulazizDXT-green?style=for-the-badge&logo=gmail)](mailto:Abdulazizalhasaniwin@gmail.com)
 
