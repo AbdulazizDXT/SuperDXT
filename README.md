@@ -22,7 +22,7 @@
 git clone https://github.com/AbdulazizDXT/SuperASS ;cd SuperASS ;chmod +x install.sh ;./install.sh
 
 ```
-## Usage
+## [+] Usage
 
 1. Run the script
 2. SuperASS file window will open automatically after installation
@@ -31,6 +31,14 @@ git clone https://github.com/AbdulazizDXT/SuperASS ;cd SuperASS ;chmod +x instal
 5. Copy the Update.pyw file to the Open SuperASS window and click Replace
 6. Now the file must be transferred to the Windows system to start creating an exe file for the virus in the USB or zip files
 
+
+## [+] Use SuperASS In USB AutoRun :
+
+1- Download USB AutoRun Creator from : https://www.samlogic.net/demos/files/USBAC-DEMO-ENG-SETUP.exe
+2- Install & Open after Installation 
+3- Now the previously modified SuperASS file should be present in your Windows system
+4- After you run the autorun program, choose the file MIN (1).exe & Then choose the USB disk & click create
+5- 
 
 
 
