@@ -6,7 +6,7 @@
   <br>
   <img src="https://img.shields.io/badge/Author-AbdulazizDXT-green?style=flat-square">
   <img src="https://img.shields.io/badge/Made%20in-Oman-green?style=flat-square">
-  <img src="https://img.shields.io/badge/Powerd%20BY-Python-Metasploit-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Powerd%20BY-Python%20&%20Metasploit-blue?style=flat-square">
 </p>
 
 ### [√] Description :
