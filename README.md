@@ -39,7 +39,7 @@ git clone https://github.com/AbdulazizDXT/SuperASS ;cd SuperASS ;chmod +x instal
 5. Copy the Update.pyw file to the Open SuperASS window and click Replace
 6. Now the file must be transferred to the Windows system to start creating an exe file for the virus in the USB or zip files
 
-- If the off-network virus attack will ask you for an off-network (IPv4) IP address, you can get it here : 
+- 
 
 ## [+] Use SuperASS In USB AutoRun :
 
