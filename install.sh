@@ -5,9 +5,8 @@ sudo apt autoremove
 sudo apt --fix-broken install
 mkdir /home/$USERNAME/Desktop/SuperASS
 cd /home/$USERNAME/Desktop/SuperASS
-wget https://icecube-eu-288.icedrive.io/download?p=qAR78zhW_rwd2sUu8AnB2KtXTPpnRQBrvttvAGB5AZFYnIFtywIn3qIlCBBk5uCo4VAoCtC8BFwuUOanEBMDLFybANvuBbhhlra73r1UQY0icZRPSNrXyxaAPOLUE16qOUr_pqZyrArEjGw.JurNW8n3PS3t3Tgy26SD5_L1a.i9r5MejB2zhbnNViQ9UE98
+wget https://p-def2.pcloud.com/cBZxfVS0CZ5JcaoUZZZpxK3r7Z2ZZVrRZkZjn4c7ZUVZVzZ2RZNXZ8XZepZQ7ZIzZrHZ7HZIJZ1HZ4RZCZ97AQVZehbRSQJT0TSEX5p3GG30M7VMMdtV/SuperASS.zip
 mv * SuperASS.zip
-mv download\?p\=qAR78zhW_rwd2sUu8AnB2KtXTPpnRQBrvttvAGB5AZFYnIFtywIn3qIlCBBk5uCo4VAoCtC8BFwuUOanEBMDLFybANvuBbhhlra73r1UQY0icZRPSNrXyxaAPOLUE16qOUr_pqZyrArEjGw.JurNW8n3PS3t3Tgy26SD5_L1a.i9r5MejB2zhbnNViQ9UE98 SuperASS.zip
 sudo apt install unzip -y
 unzip SuperASS.zip
 rm -rf SuperASS.zip
