@@ -39,7 +39,7 @@ git clone https://github.com/AbdulazizDXT/SuperASS ;cd SuperASS ;chmod +x instal
 5. Copy the Update.pyw file to the Open SuperASS window and click Replace
 6. Now the file must be transferred to the Windows system to start creating an exe file for the virus in the USB or zip files
 
-- If you want to test the penetration outside the network, you must open a port for the IP address of your device and also put the IPv4 address and the port that you opened in step 3.  You want to receive the connection be the same port you set. IPv4 Outside Network Here :https://whatismyipaddress.com/
+- If you want to test the penetration outside the network, you must open a port for the IP address of your device and also put the IPv4 address and the port that you opened in step 3.  You want to receive the connection be the same port you set. IPv4 Outside Network Here : https://whatismyipaddress.com/
 - 
 ## [+] Use SuperASS In USB AutoRun :
 
