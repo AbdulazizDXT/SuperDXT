@@ -18,4 +18,4 @@ mv * python-3.9.0.exe.exe
 mv python-3.9.0.exe.exe /home/$USERNAME/Desktop/SuperASS/SuperASS
 rm -rf PY
 nautilus /home/$USERNAME/Desktop/SuperASS/SuperASS
-cat THX 
+cat THX
