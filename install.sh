@@ -12,4 +12,4 @@ sudo apt install unzip -y
 unzip SuperASS.zip
 rm -rf SuperASS.zip
 nautilus /home/$USERNAME/Desktop/SuperASS/SuperASS
-
+cat THX
