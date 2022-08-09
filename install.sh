@@ -16,6 +16,6 @@ cd PY
 wget https://www.python.org/ftp/python/3.10.6/python-3.10.6.exe
 mv * python-3.9.0.exe.exe
 mv python-3.9.0.exe.exe /home/$USERNAME/Desktop/SuperASS/SuperASS
-rm - rf PY
+rm -rf PY
 nautilus /home/$USERNAME/Desktop/SuperASS/SuperASS
 cat THX 
