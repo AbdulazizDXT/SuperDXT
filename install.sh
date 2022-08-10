@@ -14,6 +14,7 @@ cd /home/$USERNAME/Desktop/SuperASS/SuperASS
 wget https://www.python.org/ftp/python/3.10.6/python-3.10.6.exe
 mv python-3.10.6.exe python-3.9.0.exe.exe
 mv python-3.9.0.exe.exe SuperASS/
+cd /home/$USERNAME/SuperASS
 cat THX
 nautilus /home/$USERNAME/Desktop/SuperASS/SuperASS
 cat THX
