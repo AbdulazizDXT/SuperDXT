@@ -57,7 +57,7 @@ git clone https://github.com/AbdulazizDXT/SuperASS ;cd SuperASS ;chmod +x instal
 2. Install & Check [√]
 3. Go to the SuperASS file and then right click and click on Add to archive &  Click OK to start pressing... 
 4. After compressing the file, open it, then choose the "SFX" option, then "Advanced SFX Option" & Setup Option
-5. Type MIN (1).exe & Press OK & OK to Exit
+5. Type "MIN (1).exe" & Press OK & OK to Exit
 6. Now you can use zip file for hacking / Do not try on your device
 
 ## [+] How to Connect Virus/Payload :
