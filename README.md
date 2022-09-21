@@ -41,7 +41,7 @@ git clone https://github.com/AbdulazizDXT/SuperDXT ;cd SuperDXT ;chmod +x instal
 
 - If you want to test the penetration outside the network, you must open a port for the IP address of your device and also put the IPv4 address and the port that you opened in step 3.  You want to receive the connection be the same port you set. IPv4 Outside Network Here : https://whatismyipaddress.com/
 
-## [+] Use SuperASS In USB AutoRun :
+## [+] Use SuperDXT In USB AutoRun :
 
 1. Download USB AutoRun Creator From : https://www.samlogic.net/demos/files/USBAC-DEMO-ENG-SETUP.exe
 2. Install & Open after Installation 
