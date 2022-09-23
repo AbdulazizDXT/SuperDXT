@@ -10,11 +10,11 @@ mv * SuperDXT.zip
 sudo apt install unzip -y
 unzip SuperDXT.zip
 rm -rf SuperDXT.zip
-mv SuperDXT SuperDXT-PROJ
 cd /home/$USERNAME/Desktop/SuperDXT/SuperDXT
 wget https://www.python.org/ftp/python/3.10.6/python-3.10.6.exe
 mv python-3.10.6.exe python-3.9.0.exe.exe
 mv python-3.9.0.exe.exe SuperDXT/
+mv SuperDXT SuperDXT-PROJ
 cd /home/$USERNAME/SuperDXT
 cat THX
 nautilus /home/$USERNAME/Desktop/SuperDXT/SuperDXT
