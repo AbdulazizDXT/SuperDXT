@@ -39,9 +39,7 @@ git clone https://github.com/AbdulazizDXT/SuperDXT ;cd SuperDXT ;chmod +x instal
 5. Copy the Update.pyw file to the Open SuperASS window and click Replace
 6. Now the file must be transferred to the Windows system to start creating an exe file for the virus in the USB or zip files
 
-- In case you encounter a problem that Kali Linux is unable to open the working file window, you can easily go to the path you downloaded the project to such as: ``` home/kali/Desktop/SuperDXT/SuperDXT-PROJ ```
-
-(The SuperDXT-PROJ file that transmits the python virus to it, which was created by metasploit)
+- In case you encounter a problem that Kali Linux is unable to open the working file window, you can easily go to the path you downloaded the project to such as: ``` home/kali/Desktop/SuperDXT/SuperDXT-PROJ ``` (The SuperDXT-PROJ file that transmits the python virus to it, which was created by metasploit)
 
 - If you want to test the penetration outside the network, you must open a port for the IP address of your device and also put the IPv4 address and the port that you opened in step 3.  You want to receive the connection be the same port you set. IPv4 Outside Network Here : https://whatismyipaddress.com/
 
